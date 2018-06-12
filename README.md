@@ -1,2 +1,2 @@
 # lolypops
-[SEO Squad Intern Onboarding] Simple Web Service using Golang
+Simple Web Service using Golang
