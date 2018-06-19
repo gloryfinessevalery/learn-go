@@ -1,4 +1,4 @@
-# lolypops
+# learn-go
 Simple Web Service using Golang
 
 ----
