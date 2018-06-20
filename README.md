@@ -5,9 +5,11 @@ Simple Web Service using Golang
 
 ## Installation
 
-**make dep**
-**make build**
-**make start**
+* ```make dep```
+
+* ```make build```
+
+* ```make start```
 
 ## ENDPOINT
 
