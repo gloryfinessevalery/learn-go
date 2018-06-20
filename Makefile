@@ -1,11 +1,11 @@
 dep:
-	go get -u github.com/golang/dep/cmd/dep
+	@go get -u github.com/golang/dep/cmd/dep
 
 dep-ensure: dep
-	dep ensure -v
+	@dep ensure -v
 
-install:
-	go install
+build:
+	@go build
 
 start:
-	go run main.go
+	@./learn-go
