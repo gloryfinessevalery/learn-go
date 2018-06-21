@@ -9,7 +9,11 @@ Simple Web Service using Golang
 
 * ```make build```
 
+## Run Program
+
 * ```make start```
+
+The program will be running on port 8000
 
 ## ENDPOINT
 
